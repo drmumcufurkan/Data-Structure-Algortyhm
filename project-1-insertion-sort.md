@@ -40,7 +40,7 @@ Binary Search açısından değerlendirildiğinde  ilk işlemde dizinin ortasın
 - Bu bölmenin 18 üzerinde gerçekleşmesi halinde Best Case gerçekleşecektir.
 - Bu bölmenin 16 üzerinden gerçekleşmesi halinde ise Worst Case olarak gerçekleşecektir.
 
-Binary Search Tree dağılımı oluşturulmadığı için Case açısından değerlendirilemez.
+Dizi sıralandığında Binary Search Tree dağılımı oluşturulduğunda [2,6,16,18,22,27] dizisi lineer dağılım gösterecektir.18 değeri dizinin ortasında olduğunda Avarage Case olarak değerlendirilebilir.
 ____
 
 5.[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımının yazılması istenmektedir.
